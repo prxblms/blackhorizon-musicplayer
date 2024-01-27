@@ -12,4 +12,12 @@ BlackHorizon™ é um reprodutor de música simples com design minimalista.
 
 ---
 
+## Licença
+
+Este projeto é licenciado sob a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](./LICENSE).
+
+---
+
 ![afterdawnbot](bhmp.png)
+
+---
